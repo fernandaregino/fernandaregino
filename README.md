@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Kanban](https://img.shields.io/badge/Kanban-0078D4?style=for-the-badge)
+![Agilidade](https://img.shields.io/badge/Agilidade-5E5DF0?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-8A2BE2?style=for-the-badge)
+![PMO/VMO](https://img.shields.io/badge/PMO%2FVMO-444444?style=for-the-badge)
 
 
 # Olá! 👋
